@@ -55,7 +55,7 @@ class Non_BouncyNumbers {
 	}
 }
 
-public class Main_113 {
+public class Non_BouncyMain {
 	
 	public static void main(String[] args) {
 		new Non_BouncyNumbers();
